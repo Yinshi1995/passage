@@ -1,8 +1,6 @@
 node_modules
 .wwebjs_cache
 .git
-Dockerfile
-docker-compose.yml
 *.log
 # НЕ игнорируйте:
 # .wwebjs_auth
